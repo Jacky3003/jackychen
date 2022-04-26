@@ -1,5 +1,22 @@
+.headerboxouter{
+    background-color:burlywood;
+    width:500px;
+    padding:25px;
+    margin:auto;
+}
+
+.headerboxinner{
+    background-color:rgb(255, 220, 175);/*Burlywood but color change applied.*/
+    padding:25px;
+    margin:25px;
+}
+
 h1 {
-    color:burlywood;
+    color:black;
+    text-align: left;
+    margin: auto;
+    font-family:monospace;
+    font-size: 50px;
 }
 body{
     background-color: beige;
