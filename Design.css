@@ -1,13 +1,10 @@
 .headerboxouter{
-    background-color:burlywood;
-    width:500px;
-    padding:25px;
     margin:auto;
+    width:850px;
 }
 
 .headerboxinner{
-    background-color:rgb(255, 220, 175);/*Burlywood but color change applied.*/
-    padding:25px;
+    /*background-color:rgb(255, 220, 175);/*Burlywood but color change applied.*/
     margin:25px;
 }
 
@@ -15,9 +12,32 @@ h1 {
     color:black;
     text-align: left;
     margin: auto;
-    font-family:monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
+    font-weight:100;
 }
+
+.subheaderboxouter{
+    width:850px;
+    margin:auto;
+}
+
+.subheaderboxinner{
+    margin:25px;
+}
+
+h2 {
+    color:black;
+    text-align: left;
+    margin: auto;
+    padding: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    font-weight:normal;
+    line-height: 35px;
+}
+
 body{
     background-color: beige;
 }
