@@ -87,3 +87,9 @@ a:visited {
     text-decoration: none; 
     color: black; 
    }
+
+.medimg{
+    height:300px;
+    width:150px;
+    outline: black auto;
+}
